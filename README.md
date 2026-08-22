@@ -1,12 +1,14 @@
 PROYECTO DE GITHUB
 
+Este proyecto tiene como finalidad promover el uso de GitHub como herramienta para crear documentación de proyectos.
+
 OBEJETIVO
 
 Aprende a utilizar y crear el repositorio de GitHub
 
 INTEGRANTES:
 
-Maria Salome Ricra Espinoza
+María Salome Ricra Espinoza
 
 Alvarado Muñoz Daddy Max
 
