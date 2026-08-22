@@ -4,6 +4,8 @@ OBEJETIVO
 
 Aprende a utilizar y crear el repositorio de GitHub
 
+INTEGRANTES:
+
 Maria Salome Ricra Espinoza
 
 Alvarado Muñoz Daddy Max
