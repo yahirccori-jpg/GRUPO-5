@@ -17,3 +17,12 @@ Emily Chinen Francia
 Yahir Messi Ccori Colque
 
 Fernando José Tadeo Manrique
+
+Estructura del Repositorio
+
+willay-project/
+├── frontend/       # Interfaz de usuario (Web/App)
+├── backend/        # APIs y modelos predictivos (FastAPI, PyTorch)
+├── iot/            # Código para microcontroladores en campo (Sensores ESP32)
+├── docs/           # Manuales, arquitectura y documentación del sistema
+└── README.md       # Presentación general del proyecto
