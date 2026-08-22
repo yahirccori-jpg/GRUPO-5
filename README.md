@@ -1,10 +1,10 @@
-PROYECTO DE GITHUB
+PROYECTO DE GITHUB:
 
 Este proyecto tiene como finalidad promover el uso de GitHub como herramienta para crear documentación de proyectos.
 
-OBEJETIVO
+OBEJETIVO:
 
-Aprende a utilizar y crear en el repositorio de GitHub
+ Aprender a utilizar y crear en el repositorio de GitHub.
 
 INTEGRANTES:
 
@@ -16,4 +16,4 @@ Emily Chinen Francia
 
 Yahir Messi Ccori Colque
 
-Fernando Jose Tadeo Manrique
+Fernando José Tadeo Manrique
