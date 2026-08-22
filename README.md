@@ -4,7 +4,7 @@ Este proyecto tiene como finalidad promover el uso de GitHub como herramienta pa
 
 OBEJETIVO
 
-Aprende a utilizar y crear el repositorio de GitHub
+Aprende a utilizar y crear en el repositorio de GitHub
 
 INTEGRANTES:
 
