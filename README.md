@@ -1,3 +1,5 @@
 PROYECTO DE GITHUB
-OBEJETIVO:
+
+OBEJETIVO
+
 aprende a utilizar y crear el repositorio de GitHub
