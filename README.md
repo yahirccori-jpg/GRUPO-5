@@ -1,4 +1,4 @@
-```# 📚 Equipo 05 - Proyectos para Ingeniería 1
+# 📚 Equipo 05 - Proyectos para Ingeniería 1
 
 <div align="center">
   <!-- Reemplaza el enlace de abajo con la URL del logo de la universidad o de tu equipo -->
@@ -45,4 +45,4 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📌 Resumen Final
 
-Este README es una de las tantas pruebas...```
+Este README es una de las tantas pruebas...
