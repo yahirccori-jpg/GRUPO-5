@@ -32,4 +32,3 @@ willay-project/
 
 └── README.md       # Presentación general del proyecto
 
-de cómo subir las imágenes o hacer ajustes en la tabla, dime y te ayudo a configurarlo paso a paso.
