@@ -1,34 +1,48 @@
-PROYECTO DE GITHUB:
+```# 📚 Equipo 05 - Proyectos para Ingeniería 1
 
-Este proyecto tiene como finalidad promover el uso de GitHub como herramienta para crear documentación de proyectos.
+<div align="center">
+  <!-- Reemplaza el enlace de abajo con la URL del logo de la universidad o de tu equipo -->
+  <img src="https://repositorio.upch.edu.pe/assets/custom/images/addthis.png." alt="Logo UPCH" width="400">
+</div>
 
-OBEJETIVO:
+<br>
 
- Aprender a utilizar y crear en el repositorio de GitHub.
+## 🌎 Descripción del Equipo
 
-INTEGRANTES:
+Somos el **Equipo 05** del curso **Proyectos para Ingeniería 2026-II**, conformado por estudiantes de las carreras de Ing. Informática / Ing. Industrial / Ing. Ambiental.
 
-María Salome Ricra Espinoza
+Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
-Alvarado Muñoz Daddy Max
+Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS)**:
 
-Emily Chinen Francia
+* 🩺 **ODS 3:** Salud y Bienestar
+* 🏭 **ODS 9:** Industria, Innovación e Infraestructura
+* 🏙️ **ODS 11:** Ciudades y Comunidades Sostenibles
+* 🌲 **ODS 15:** Vida de Ecosistemas Terrestres
+* ⚖️ **ODS 16:** Paz, Justicia e Instituciones Sólidas
 
-Yahir Messi Ccori Colque
+---
 
-Fernando José Tadeo Manrique
+## 💡 Propuestas de proyecto
 
-Estructura del Repositorio
+1. Sistema de detección y reducción de contaminación aérea.
+2. Sistema de detección de deforestación causada por minería ilegal y tala ilegal a través de imágenes satelitales.
+3. Sistema de monitoreo de impacto ambiental.
 
-willay-project/
+---
 
-├── frontend/       # Interfaz de usuario (Web/App)
+## 👥 Integrantes del Equipo
 
-├── backend/        # APIs y modelos predictivos (FastAPI, PyTorch)
+| Foto | Nombre | Rol | Intereses |
+| :---: | :--- | :--- | :--- |
+| <img src="URL_FOTO_DARLENE.png" width="80"> | Maria Salome Ricra Espinoza | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="URL_FOTO_JOSE.png" width="80"> | Emily Chinen Francia | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="URL_FOTO_CALEB.png" width="80"> | Daddy Max Alvarado Muñoz | Diseñador | Diseño de prototipos, creatividad aplicada |
+| <img src="URL_FOTO_JHON.png" width="80"> | Yahir Messi Ccori Colque | Encargado de documentación | Comunicación científica, redacción teórica |
+| <img src="URL_FOTO_JHENIFER.png" width="80"> | Fernando Jose Tadeo Manrique | Programador | Programación, análisis de datos, simulación |
 
-├── iot/            # Código para microcontroladores en campo (Sensores ESP32)
+---
 
-├── docs/           # Manuales, arquitectura y documentación del sistema
+## 📌 Resumen Final
 
-└── README.md       # Presentación general del proyecto
-
+Este README es una de las tantas pruebas...```
