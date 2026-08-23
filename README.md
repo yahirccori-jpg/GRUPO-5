@@ -45,3 +45,30 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ## 📌 Resumen Final
 
 Este README es una de las tantas pruebas...
+## 🧩 Roles y responsabilidades
+
+### 👑 Maria Salome Ricra Espinoza — Líder del equipo
+
+Me destaco en la **innovación social y la sostenibilidad**. Me encargaré de coordinar las actividades del equipo, organizar las tareas y promover la participación de todos los integrantes.
+
+### 🔎 Emily Chinen Francia — Responsable de investigación
+
+Tengo interés en la **gestión ambiental y el desarrollo comunitario**. Me encargo de buscar información confiable, analizar diferentes fuentes y aportar conocimientos para el proyecto.
+
+### 🎨 Daddy Max Alvarado Muñoz — Diseñador
+
+Me interesa el **diseño de prototipos y la creatividad aplicada**. Mi función es aportar ideas creativas y transformar las propuestas del equipo en diseños visuales y posibles prototipos.
+
+### 📑 Yahir Messi Ccori Colque — Encargado de documentación
+
+Mi interés se centra en la **comunicación científica y la redacción teórica**. Me encargo de organizar la información y elaborar documentos claros y comprensibles.
+
+### 💻 Fernando Jose Tadeo Manrique — Programador
+
+Me enfoco en la **programación, el análisis de datos y la simulación**. Mi función es apoyar en el desarrollo de soluciones tecnológicas y utilizar herramientas digitales para analizar información.
+
+---
+
+## 📌 Resumen Final
+
+Este README es una de las tantas pruebas...
