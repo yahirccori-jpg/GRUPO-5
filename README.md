@@ -1,11 +1,10 @@
 # 📚 Equipo 05 - Proyectos para Ingeniería 1
 
-<div align="center">
-  <!-- Reemplaza el enlace de abajo con la URL del logo de la universidad o de tu equipo -->
-  <img src="https://repositorio.upch.edu.pe/assets/custom/images/addthis.png." alt="Logo UPCH" width="400">
-</div>
+</h1>
 
-<br>
+<p align="center">
+<img width="1514" height="573" alt="banner equipo" src="https://repositorio.upch.edu.pe/assets/custom/images/addthis.png" />
+</p>
 
 ## 🌎 Descripción del Equipo
 
